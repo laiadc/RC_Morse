@@ -9,7 +9,7 @@ The results are illustrated in a set of [Jupyter](https://jupyter.org/) notebook
 In this work, we use Reservoir Computing to efficiently calculate the vibrational eigenstates of a Hamiltonian within a specific energy range. The proposed methodology uses reservoir computing, a highly relevant and efficient machine learning algorithm that predicts the quantum dynamics by propagating an initial wavepacket in time, followed by Fourier transform. As an illustration, we apply our method to a coupled Morse Hamiltonian, which models the vibrational stretching of the H$_2$O molecule and isotopic derivatives. The results indicate that the proposed method is promising for efficiently calculating the eigenstates 
 of complex quantum systems, particularly at high energies.
 
-<p align="center"><img src="https://github.com/laiadc/RC_Morse/blob/main/wavefunctions3.png"  align=middle width=600pt />
+<p align="center"><img src="https://github.com/laiadc/RC_Morse/blob/main/figures/wavefunctions3.png"  align=middle width=600pt />
 </p>
 <p align="center">
 <em>Example of the eigenfunctions functions obtained in this work, for different energies. </em>
